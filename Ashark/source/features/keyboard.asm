@@ -1,5 +1,5 @@
 ; ==================================================================
-; Auqa_Seven_OS -- The Aqua_Seven_OS Operating System kernel
+; ShOS -- The ShOS Operating System kernel
 ;
 ; KEYBOARD HANDLING ROUTINES
 ; ==================================================================
